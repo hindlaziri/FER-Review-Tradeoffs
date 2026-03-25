@@ -453,14 +453,6 @@ If you use this code or dataset in your research, please cite:
 
 ---
 
-## 📞 Support & Contact
-
-For issues, questions, or contributions:
-
-1. **GitHub Issues**: Open an issue on the repository
-2. **Email**: your.email@institution.edu
-3. **Discussion**: Start a discussion in the repository
-
 ---
 
 ## 📝 License
@@ -469,11 +461,7 @@ This project is licensed under the **MIT License** - see LICENSE file for detail
 
 ---
 
-## 🙏 Acknowledgments
 
-- **FER2013 Dataset**: Ian Goodfellow et al.
-- **TELKOMNIKA Journal**: For publication opportunity
-- **Research Community**: For feedback and support
 
 ---
 
