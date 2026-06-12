@@ -63,7 +63,7 @@ python src/integrate_sota.py
 ```
 
 ## 📖 Citation
-If you find this work useful in your research, please cite our paper:
+
 
 ```bibtex
 @article{laziri2026experimental,
