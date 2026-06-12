@@ -55,7 +55,7 @@ python fix_figures_and_add_vit.py
 - `fig_per_class_f1.png`: Per-class performance analysis.
 
 ## Citation
-If you find this work useful, please cite:
+
 ```bibtex
 @article{laziri2026fer,
   title={Experimental Comparative Analysis of Conventional Feature Extraction vs. Deep Learning Models for Facial Emotion Recognition},
