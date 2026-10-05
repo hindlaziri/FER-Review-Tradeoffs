@@ -60,7 +60,7 @@ python fix_figures_and_add_vit.py
 @article{laziri2026fer,
   title={Experimental Comparative Analysis of Conventional Feature Extraction vs. Deep Learning Models for Facial Emotion Recognition},
   author={Laziri, Hind and Riffi, Mohammed Essaid},
-  journal={SN Computer Science},
+  journal={Neural Computing and Applications},
   publisher={Springer},
   year={2026}
 }
