@@ -4,7 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.12-EE4C2C.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains the official implementation and experimental framework for the paper: **"Experimental Comparative Analysis of Conventional Feature Extraction vs. Deep Learning Models for Facial Emotion Recognition"** (Submitted to **SN Computer Science**, Springer).
+This repository contains the official implementation and experimental framework for the paper: **"Experimental Comparative Analysis of Conventional Feature Extraction vs. Deep Learning Models for Facial Emotion Recognition"** (Submitted to Neural Computing and Applications, Springer).
 
 ## Overview
 
